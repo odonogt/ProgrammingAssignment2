@@ -7,7 +7,7 @@
 ##
 ## This file contains two mothods: 
 ## makeCacheMatrix - accepts a matrix as an argument and caches it.
-## cacheSolve - acceps the cached matrix object and returns an inverted matrix.
+## cacheSolve - accepts the cached matrix object and returns an inverted matrix.
 
 ## Usage :
 ## x <- matrix(c(1,-1/2,-1/2,1), nrow=2, ncol=2)
