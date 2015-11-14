@@ -3,8 +3,10 @@
 ## Programming Assignment 2  
 ##
 ## Inverting a matrix is computationally expensive. If the inverted matrix is cached then 
-## it can be retrieved and this saves recomputation. This file contains two mothods: 
-## makeCacheMatrix - accepts a matrix as an arguement and caches it.
+## it can be retrieved and this saves recomputation if the matrix has not changed.
+##
+## This file contains two mothods: 
+## makeCacheMatrix - accepts a matrix as an argument and caches it.
 ## cacheSolve - acceps the cached matrix object and returns an inverted matrix.
 
 ## Usage :
